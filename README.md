@@ -1,13 +1,13 @@
-#### _**bold(Once Admin Page Find)**_
+##### bold(Once Admin Page Find)
 
 ![Screenshot](1.png)
 
 
-#### _**bold(Second Admin Page Find)**_
+##### bold(Second Admin Page Find)
 
 
 ![Screenshot](2.png)
 
-# ~~adminFinder~~
+### ~~adminFinder~~
 
 Admin website page finder for website pentesting
