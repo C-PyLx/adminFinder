@@ -10,4 +10,4 @@
 
 # ~~adminFinder~~
 
-Admin website page finder for website pentesting
+Admin website page finder for website pentesting :U+1F970:
