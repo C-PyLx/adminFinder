@@ -86,7 +86,7 @@ class Program:
         parser = argparse.ArgumentParser(
             formatter_class=argparse.RawDescriptionHelpFormatter,
             description=green+'Python admin page finder'+end,
-            usage='\npython3 adminFinder.py -u [url] -p [panel-word(TXT)] -v [enable-verbose]\npython3 adminFinder.py -u [url] -p [panel-word(TXT)]')
+            usage='\npython3 adminFinder.py -u [url] -p [panel-word(TXT)]')
 
         parser.add_argument('-u', '--url',
         help='target url address',
