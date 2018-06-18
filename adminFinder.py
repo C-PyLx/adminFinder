@@ -47,7 +47,6 @@ class Program:
         if len(sys.argv) < 2:
             Program.logo()
             print ('[ + ] Usage:')
-            print (cyan + 'python3 adminFinder.py -u [target-url] -p [admin-path(txt)] -v [enable-verbosity]', end)
             print (cyan + 'python3 adminFinder.py -u [target-url] -p [admin-path(txt)]', end)
             sys.exit()
 
